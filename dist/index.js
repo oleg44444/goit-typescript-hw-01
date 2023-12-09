@@ -6,4 +6,11 @@ if (button && input) {
         concatenation(input.value, "hello!");
     });
 }
+let total = 100;
+let name = "Oleg";
+let isActive = false;
+let empty = null;
+name = "3";
+let undf = undefined;
+let age = 10;
 //# sourceMappingURL=index.js.map

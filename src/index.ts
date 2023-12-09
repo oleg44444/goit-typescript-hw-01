@@ -8,3 +8,12 @@ if (button && input) {
     concatenation(input.value, "hello!");
   });
 }
+
+let total: number = 100;
+let name: string = "Oleg";
+let isActive: boolean = false;
+let empty: null = null;
+name = "3";
+let undf: undefined = undefined;
+
+let age = 10;
